@@ -9,10 +9,10 @@ var backgroundImg,platform;
 var bird, slingshot;
 
 var gameState = "onSling";
-var bg = "sprites/bg1.png";
+
 var score = 0;
 var birds=[]
-var bg=
+var bg="back.jpg"
 
 function setup(){
     var canvas = createCanvas(1200,400);
